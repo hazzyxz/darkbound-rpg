@@ -7,6 +7,7 @@
 [![Download](https://img.shields.io/badge/Download-itch.io-ff69b4)](https://hazzyxz.itch.io/darkboundrpg)
 
 </div>
+
 ## About
 
 DarkBound is an atmospheric horror RPG that plunges players into a nightmarish world between reality and darkness. Confront terrifying beings, evolve your character, and make decisions that will determine your fate in this forgotten realm.

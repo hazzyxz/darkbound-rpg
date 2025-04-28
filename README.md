@@ -1,5 +1,6 @@
 <p align="center"> <img src="https://img.itch.zone/aW1nLzE2NTU4NjAzLnBuZw==/original/F84Jka.png" alt="DarkBound RPG"> </p>
-![Made with Java](https://img.shields.io/badge/Made%20with-%20Java-blue)
+
+![Made with Java](https://img.shields.io/badge/Made%20with-Java-blue) [![License](https://img.shields.io/badge/License-Proprietary-red.svg)] [![Status](https://img.shields.io/badge/Status-Released-success)](https://hazzyxz.itch.io/darkboundrpg) [![Download](https://img.shields.io/badge/Download-itch.io-ff69b4)](https://hazzyxz.itch.io/darkboundrpg)
 
 ## About
 

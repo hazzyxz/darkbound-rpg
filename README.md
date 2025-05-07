@@ -10,7 +10,7 @@
 
 ## About
 
-DarkBound is an atmospheric horror RPG that plunges players into a nightmarish world between reality and darkness. Confront terrifying beings, evolve your character, and make decisions that will determine your fate in this forgotten realm.
+DarkBoundRPG is an atmospheric horror RPG that plunges players into a nightmarish world between reality and darkness. Confront terrifying beings, evolve your character, and make decisions that will determine your fate in this forgotten realm.
 
 ## Story
 
@@ -23,7 +23,7 @@ Choose your class and dive into the dark-bounded city of Kuala Lumpur, traverse 
 
 1. Download the latest release from [itch.io](https://hazzyxz.itch.io/darkboundrpg)
 2. Extract the ZIP file to your desired location
-3. Run `DarkBound.exe` to start the game
+3. Run `DarkBoundRPG.exe` to start the game
 
 ## How to Play
 
